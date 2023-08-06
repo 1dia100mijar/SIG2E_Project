@@ -1,1 +1,2 @@
-# SIG2E_Project
+# SIG2E
+LEIRT - Projeto Final de Curso

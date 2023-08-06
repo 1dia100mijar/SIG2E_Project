@@ -1,0 +1,7 @@
+
+node_modules/
+
+# TS Compile Folder
+dist/
+
+configs/
